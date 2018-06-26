@@ -1,5 +1,5 @@
 <h1><font color=#ee7600>A decentralized & Community Driven PoS Cryptocurrency.</font></h1>
-==================================================================================<p>
+=================================================================================<p>
   
 Adonis Coin (XAD) is a <b>decentralized</b>, peer-to-peer transactional currency. XAD has opted not to include <b>masternodes</b> as part of the reward system, we believe this restricts <b>cryptocurrencies</b> to the small fraction of the crypto-community that can actually afford masternodes. 
 <p>We at XAD, believe this restriction does against the <b>decentralized</b> concept of cryptocurrency. By removing the need for masternodes, <b>ALL</b> rewards go to staking and we allow <b>everyone</b> to be part of this project. This means that XAD leads the way in ensuring cryptocurrency stays true to Satoshi Nakamoto’s vision for a <b>decentralized digital currency.</b>
