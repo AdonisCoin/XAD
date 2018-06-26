@@ -1,0 +1,9 @@
+Building Adonis
+
+See doc/readme-qt.rst for instructions on building Adonis QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Adonis.
+
+See doc/build-*.txt for instructions on building adonisd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Adonis.
